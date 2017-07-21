@@ -1,0 +1,4 @@
+language: csharp
+solution: Expecto.VisualStudio.sln
+install:
+  - nuget restore src/Expecto.VisualStudio.sln
